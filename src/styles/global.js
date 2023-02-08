@@ -7,11 +7,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
-  }
-
-  html {
-    width: 100vw;
-    height: 100vh;
+    max-width: 360px;
   }
 `;
 
